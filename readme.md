@@ -5,6 +5,6 @@ https://www.youtube.com/watch?v=TCcWwUgQe8s
 - git add .
 - git commit -m "first commit" 
 - git branch -M master //// if needed
-- git remote add upstream git@github.com:IntalioPresales/sshtest.git
-- git push upstream master
-- git pull upstream master
+- git remote add origin git@github.com:IntalioPresales/sshtest.git
+- git push origin master
+- git pull origin master
